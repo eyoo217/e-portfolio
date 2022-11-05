@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/e-portfolio/static/css/main.7dc08db4.css",
-    "main.js": "/e-portfolio/static/js/main.e01d1945.js",
-    "static/media/portfolioimg1.PNG": "/e-portfolio/static/media/portfolioimg1.0ebe35a316cefcb060bc.PNG",
-    "static/media/portfolioimg2.png": "/e-portfolio/static/media/portfolioimg2.f5a487ad721f36e3718c.png",
-    "static/media/aboutme.jpg": "/e-portfolio/static/media/aboutme.e5bc0f8d0c5d2e9f7e16.jpg",
-    "static/media/NEW RESUME.pdf": "/e-portfolio/static/media/NEW RESUME.24dc115bb47c5422b8e8.pdf",
-    "static/media/pfp.png": "/e-portfolio/static/media/pfp.046d7c06825dba5a15d4.png",
-    "index.html": "/e-portfolio/index.html",
-    "main.7dc08db4.css.map": "/e-portfolio/static/css/main.7dc08db4.css.map",
-    "main.e01d1945.js.map": "/e-portfolio/static/js/main.e01d1945.js.map"
+    "main.css": "/www.elotmusk.com/static/css/main.7dc08db4.css",
+    "main.js": "/www.elotmusk.com/static/js/main.79339b6c.js",
+    "static/media/portfolioimg1.PNG": "/www.elotmusk.com/static/media/portfolioimg1.0ebe35a316cefcb060bc.PNG",
+    "static/media/portfolioimg2.png": "/www.elotmusk.com/static/media/portfolioimg2.f5a487ad721f36e3718c.png",
+    "static/media/aboutme.jpg": "/www.elotmusk.com/static/media/aboutme.e5bc0f8d0c5d2e9f7e16.jpg",
+    "static/media/NEW RESUME.pdf": "/www.elotmusk.com/static/media/NEW RESUME.24dc115bb47c5422b8e8.pdf",
+    "static/media/pfp.png": "/www.elotmusk.com/static/media/pfp.046d7c06825dba5a15d4.png",
+    "index.html": "/www.elotmusk.com/index.html",
+    "main.7dc08db4.css.map": "/www.elotmusk.com/static/css/main.7dc08db4.css.map",
+    "main.79339b6c.js.map": "/www.elotmusk.com/static/js/main.79339b6c.js.map"
   },
   "entrypoints": [
     "static/css/main.7dc08db4.css",
-    "static/js/main.e01d1945.js"
+    "static/js/main.79339b6c.js"
   ]
 }
