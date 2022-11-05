@@ -16,7 +16,16 @@
 }
 
 .langText {
-    margin-top: 0;
     margin-bottom: 1rem;
     text-align: center;
 }
+
+ /* =======MEDIA QUERIES sm======*/
+ 
+ @media screen and (max-width: 600px) {
+    .resource__content {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+
+ }
