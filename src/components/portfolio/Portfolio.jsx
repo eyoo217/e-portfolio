@@ -47,7 +47,7 @@ const Portfolio = () => {
           }
         </div>
   </section>  
-  )
+    )
 }
 
 export default Portfolio
